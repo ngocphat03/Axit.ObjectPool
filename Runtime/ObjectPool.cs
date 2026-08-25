@@ -27,6 +27,11 @@ namespace AXitUnityTemplate.ObjectPool
                 throw new ArgumentNullException(nameof(prefab));
             }
 
+            if (rotation == default)
+            {
+                rotation = Quaternion.identity;
+            }
+
             var pool = GetOrCreatePool(prefab);
             var instance = pool.Get();
 
