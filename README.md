@@ -5,7 +5,7 @@ A minimal static object pool for Unity. The package does not load assets and has
 ## Usage
 
 ```csharp
-using AXitUnityTemplate.ObjectPool;
+using Axit.ObjectPool;
 
 // A prefab is always required.
 GameObject enemy = ObjectPool.Spawn(enemyPrefab, parent, position, rotation);
