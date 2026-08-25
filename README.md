@@ -4,7 +4,6 @@ A minimal static object pool for Unity.
 
 - No asset loading.
 - No installer or scene setup.
-- No dependency on Zenject, UniTask, or other packages.
 - The caller always supplies the prefab.
 
 ## Installation
