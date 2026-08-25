@@ -1,6 +1,6 @@
 {
-    "name": "AXit.ObjectPool",
-    "rootNamespace": "AXitUnityTemplate.ObjectPool",
+    "name": "Axit.ObjectPool",
+    "rootNamespace": "Axit.ObjectPool",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
