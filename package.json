@@ -1,15 +1,17 @@
 {
     "name": "com.axit.objectpool",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "displayName": "Axit Object Pool",
-    "description": "A lightweight and reusable Object Pooling system for Unity, designed to improve performance by reducing runtime instantiation and garbage collection overhead.",
+    "description": "A minimal static object pool for Unity. Prefabs are supplied directly by the caller.",
     "unity": "2019.1",
     "unityRelease": "0b5",
-    "documentationUrl": "https://github.com/ngocphat03/Axit.ObjectPool/blob/release/README.md",
-    "changelogUrl": "https://github.com/ngocphat03/Axit.ObjectPool/blob/release/CHANGELOG.md",
-    "licensesUrl": "https://github.com/ngocphat03/Axit.ObjectPool/blob/release/LICENSE.md",
+    "documentationUrl": "https://github.com/ngocphat03/Axit.ObjectPool/blob/develop/README.md",
+    "licensesUrl": "https://github.com/ngocphat03/Axit.ObjectPool/blob/develop/LICENSE",
     "dependencies": {},
-    "keywords": [],
+    "keywords": [
+        "object-pool",
+        "pooling"
+    ],
     "author": {
         "name": "Ngoc Phat",
         "email": "ngonngocphat@gmail.com",
