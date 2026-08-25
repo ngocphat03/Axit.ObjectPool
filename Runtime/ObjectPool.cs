@@ -1,4 +1,4 @@
-namespace AXitUnityTemplate.ObjectPool
+namespace Axit.ObjectPool
 {
     using System;
     using System.Collections.Generic;
