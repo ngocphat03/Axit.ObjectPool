@@ -1,7 +1,6 @@
 # Axit Object Pool
 
-A minimal static object pool for Unity. The package does not load assets and has no dependency on Zenject, UniTask, or an asset loader.
-
+A minimal static object pool for Unity.
 ## Usage
 
 ```csharp
