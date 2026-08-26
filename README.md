@@ -15,7 +15,7 @@ A minimal static object pool for Unity.
 3. Enter:
 
 ```text
-https://github.com/ngocphat03/Axit.ObjectPool.git#develop
+https://github.com/ngocphat03/Axit.ObjectPool.git#release
 ```
 
 ### manifest.json
@@ -25,7 +25,7 @@ Add the package to `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.axit.objectpool": "https://github.com/ngocphat03/Axit.ObjectPool.git#develop"
+    "com.axit.objectpool": "https://github.com/ngocphat03/Axit.ObjectPool.git#release"
   }
 }
 ```
